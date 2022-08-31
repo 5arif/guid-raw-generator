@@ -112,7 +112,7 @@ namespace GuidConvert
             this.MinimizeBox = false;
             this.Name = "FormConvert";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Tibero Convert Guid";
+            this.Text = "Guid Convert";
             this.ResumeLayout(false);
             this.PerformLayout();
 
